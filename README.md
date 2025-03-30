@@ -1,13 +1,12 @@
 ## Hi there 👋
 As of 2025
-- 🔭 I’m currently working on becoming a programmer.
+- 🔭 I’m currently working on my coding skills.
 - 🌱 I’m currently learning python for machine learning.
 - 👯 I’m looking to collaborate on ANYTHING.
 - 🤔 I’m looking for help with EVERYTHING.
-- 💬 Ask me about just started programming January 2025.
 - 📫 How to reach me: drew.tan022@gmail.com
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: I'm just a construction worker.
+- ⚡ Fun fact: Started programming January 2025.
 <!--
 **Skulley11/Skulley11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
